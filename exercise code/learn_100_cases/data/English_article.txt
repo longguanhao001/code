@@ -1,0 +1,33 @@
+    The microtubule-based spindle orchestrates chromosome segregation during cell division. Following more than a century
+ of study, many components and pathways contributing to spindle assembly have been described, but how the spindle
+ robustly assembles remains incompletely understood. This process involves the self-organization of a large number
+ of molecular parts - up to hundreds of thousands in vertebrate cells - whose local interactions give rise to a
+ cellular-scale structure with emergent architecture, mechanics and function. In this Review, we discuss key concepts
+ in our understanding of spindle assembly, focusing on recent advances and the new approaches that enabled them. We
+ describe the pathways that generate the microtubule framework of the spindle by driving microtubule nucleation in
+ a spatially controlled fashion and present/ recent ,insights regarding the organization of individual microtubules
+ into structural modules. Finally, we discuss the emergent properties of the spindle that enable robust chromosome
+ segregation
+    The transmission of a complete set of chromosomes to daughter cells during cell division is vital for development
+and tissue homeostasis. The spindle assembly checkpoint (SAC) ensures correct segregation by informing the cell
+cycle machinery of potential errors in the interactions of chromosomes with spindle microtubules prior to anaphase.
+To do so, the SAC monitors microtubule engagement by specialized structures known as kinetochores and integrates
+local mechanical and chemical cues such that it can signal$# in a sensitive, responsive and robust manner. In this
+Review, we discuss how SAC proteins interact to allow production of the mitotic checkpoint complex (MCC) that halts
+anaphase progression by inhibiting the anaphase-promoting complex/cyclosome (APC/C). We highlight recent advances
+aimed at understanding the dynamic signalling properties of the S^&*AC and how it interprets various naturally
+occurring intermediate attachment states. Further, we discuss SAC signalling in the context of the mammalian
+multisite kinetochore and address the impact of the fibrous corona. We also identify current challenges in
+understanding how the SAC ensures high-fidelity chromosome segregation.
+    Adult stem cells are important for mammalian tissues, where they act as a cell reserve that supports normal tissue
+turnover and can mount a regenerative response following acute injuries. Quiescent stem cells are well established
+ in certain tissues, such as skeletal muscle, brain, and bone marrow. The quiescent state is actively controlled
+ and is essential for long-term maintenance of stem cell pools. In this Review, we discuss the importance of
+ maintaining a functional pool of quiescent adult stem cells, including haematopoietic stem cells, skeletal
+  muscle stem cells, neural stem cells, hair follicle stem cells, and mesenchymal stem cells such as
+  fibro-adipogenic progenitors, to ensure tissue maintenance and repair. We discuss the molecular mechanisms
+  that regulate the entry into, maintenance of, and exit from the quiescent state in mice. Recent studies
+  revealed that quiescent stem cells have a discordance between RNA and protein levels, indicating the importance
+  of post-transcriptional mechanisms, such as alternative polyadenylation, alternative splicing, and translation
+  repression, in the control of stem cell quiescence. Understanding how these mechanisms guide stem cell function
+  during homeostasis and regeneration has important implications for regenerative medicine.
